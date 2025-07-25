@@ -17,10 +17,10 @@ This is a recreation of the analysis that would be performed in the guided proje
   - Pie Chart
   - Line Chart
 - PowerPoint
-  - Guiding through Analysis process
-  - Presenting findings and insights
-  - Sharing recommendations
-  - Enhancing engagement with transitions and animations
+  - Design Selection
+  - Presentation Formatting
+  - Transitions
+  - Animations
 
 ## 📈 Key Skills Demonstrated
 - Data Cleaning
@@ -32,31 +32,14 @@ This is a recreation of the analysis that would be performed in the guided proje
 - Storytelling
 
 ## 🔍 Business Problem / Goal
-GameCo is about to engage in a Marketing Campaign, and assumes that all video game sales from each region stay consistent.
-Our task is to analyze sales data to validate or challenge this assumption and make recommendations for upcoming marketing strategies based on findings.
+GameCo assumes consistent sales across regions. 
+My goal: analyze historical data (1980–2016) to validate or challenge that assumption and inform marketing.
 
 ## 🔧 Methods
-1.	Data Cleaning
-  -	Formatting Headers
-  -	Adjust Cell Widths
-  -	Sort by Rank
-  -	Include Filters
-  -	Freezing Top Row
-  -	Removal of Duplicates
-  -	Removal of Missing Data in Rows or Columns
-  -	Any Other Data Cleaning Practices
-2.	Exploratory Data Analysis
-  - Exploring Counts of Unique Values for Categorical Data
-  - Exploring Statistical Figures for Quantitative Data
-3.	Answering the Prompt
-  - What to analyze to answer prompt
-  - Further Exploration
-  - Results and Recommendations
-4.	Telling the Story
-  - Design
-  - Visualizations
-  - Flow of Content
-  - Transitions and Animations
+- Cleaned dataset (remove duplicates/missing data, formatted headers)
+- Used Excel pivot tables, charts, filters to explore trends
+- Aggregated data by region and genre
+- Created PowerPoint summary
 
 ## 📊 Insights / Recommendations
 Distribution of sales vary based on region and genre, which challenges previous assumptions
