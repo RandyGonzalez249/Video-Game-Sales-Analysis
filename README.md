@@ -1,4 +1,4 @@
-# 📊 Video-Game-Sales-Analysis
+# 🎮 Video-Game-Sales-Analysis
 
 ## 📌 Overview
 Guided Project on analysis of video game sales trends from 1980 to 2016
