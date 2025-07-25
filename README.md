@@ -32,26 +32,26 @@ Our task is to analyze sales data to validate or challenge this assumption and m
 
 ## 🔧 Methods
 1.	Data Cleaning
-  a.	Formatting Headers
-  b.	Adjust Cell Widths
-  c.	Sort by Rank
-  d.	Include Filters
-  e.	Freezing Top Row
-  f.	Removal of Duplicates
-  g.	Removal of Missing Data in Rows or Columns
-  h.	Any Other Data Cleaning Practices
+  -	Formatting Headers
+  -	Adjust Cell Widths
+  -	Sort by Rank
+  -	Include Filters
+  -	Freezing Top Row
+  -	Removal of Duplicates
+  -	Removal of Missing Data in Rows or Columns
+  -	Any Other Data Cleaning Practices
 2.	Exploratory Data Analysis
-  a.	Exploring Counts of Unique Values for Categorical Data
-  b.	Exploring Statistical Figures for Quantitative Data
+  - Exploring Counts of Unique Values for Categorical Data
+  - Exploring Statistical Figures for Quantitative Data
 3.	Answering the Prompt
-  a.	What to analyze to answer prompt
-  b.	Further Exploration
-  c.	Results and Recommendations
+  - What to analyze to answer prompt
+  - Further Exploration
+  - Results and Recommendations
 4.	Telling the Story
-  a.	Design
-  b.	Visualizations
-  c.	Flow of Content
-  d.	Transitions and Animations
+  - Design
+  - Visualizations
+  - Flow of Content
+  - Transitions and Animations
 
 ## 📊 Insights / Recommendations
 Distribution of sales vary based on region and genre, which challenges previous assumptions
