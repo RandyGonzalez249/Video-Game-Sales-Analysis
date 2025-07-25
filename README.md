@@ -50,3 +50,16 @@ Distribution of sales vary based on region and genre, which challenges previous 
 - `vgsales.xlsx` – Excel file showing original data, cleaned data, pivot tables, and aggregated datasets
 - `Guided Analysis of Video Game Sales Data.pdf` – Project write-up detailing mental processes of analysis and reflections of project
 
+## 🖼️ Snapshots of PowerPoint
+
+Title of PowerPoint
+
+<img width="1919" height="1079" alt="Video Game Sales Analysis PPT Title" src="https://github.com/user-attachments/assets/3c37a0ca-abc4-4204-83bd-a26831dccae0" />
+
+Slide with Trends of Overall Sales
+
+<img width="1917" height="1078" alt="Video Game Sales Analysis PPT Overall Trends" src="https://github.com/user-attachments/assets/e87fb134-b06d-4bcb-9494-c897a71a7c42" />
+
+Slide with Sales of Each Genre
+
+<img width="1919" height="1079" alt="Video Game Sales Analysis PPT Genre Sales" src="https://github.com/user-attachments/assets/b1326f5b-bb80-4987-8576-b653b41c26cd" />
