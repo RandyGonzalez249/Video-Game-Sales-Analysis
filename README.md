@@ -11,12 +11,16 @@ This is a recreation of the analysis that would be performed in the guided proje
 ## 🛠️ Tools & Technologies
 - Excel
   - Pivot Tables
-  - Filter
+  - Sort & Filter
   - Remove Duplicates
-  - Sort
   - Bar Chart
   - Pie Chart
   - Line Chart
+- PowerPoint
+  - Guiding through Analysis process
+  - Presenting findings and insights
+  - Sharing recommendations
+  - Enhancing engagement with transitions and animations
 
 ## 📈 Key Skills Demonstrated
 - Data Cleaning
@@ -25,6 +29,7 @@ This is a recreation of the analysis that would be performed in the guided proje
 - Exploratory Analysis
 - Visualization
 - Business Insights
+- Storytelling
 
 ## 🔍 Business Problem / Goal
 GameCo is about to engage in a Marketing Campaign, and assumes that all video game sales from each region stay consistent.
