@@ -33,7 +33,7 @@ This is a recreation of the analysis that would be performed in the guided proje
 
 ## 🔍 Business Problem / Goal
 GameCo assumes consistent sales across regions. 
-My goal: analyze historical data (1980–2016) to validate or challenge that assumption and inform marketing.
+My goal: Analyze historical data (1980–2016) to validate or challenge that assumption and inform marketing.
 
 ## 🔧 Methods
 - Cleaned dataset (remove duplicates/missing data, formatted headers)
