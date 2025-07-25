@@ -55,7 +55,7 @@ Our task is to analyze sales data to validate or challenge this assumption and m
 
 ## 📊 Insights / Recommendations
 Distribution of sales vary based on region and genre, which challenges previous assumptions
-•	Recommendation: Focus marketing based on recently rising popularity in genres for each region
+-	Recommendation: Focus marketing based on recently rising popularity in genres for each region
 
 ## 📁 Files Included
 - `Video Game Sales Report 2017.pptm` – PowerPoint Presentation showing visualizations, findings of analysis, insights, and recommendations
