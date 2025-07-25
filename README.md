@@ -60,5 +60,5 @@ Distribution of sales vary based on region and genre, which challenges previous 
 ## 📁 Files Included
 - `Video Game Sales Report 2017.pptm` – PowerPoint Presentation showing visualizations, findings of analysis, insights, and recommendations
 - `vgsales.xlsx` – Excel file showing original data, cleaned data, pivot tables, and aggregated datasets
-- `Guided Analysis of Video Game Sales Data.docx` – Project write-up detailing mental processes of analysis and reflections of project
+- `Guided Analysis of Video Game Sales Data.pdf` – Project write-up detailing mental processes of analysis and reflections of project
 
